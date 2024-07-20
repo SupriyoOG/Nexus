@@ -1,0 +1,16 @@
+{
+  "errors": {
+    "speech_recognition": [
+      "Try again."
+    ],
+    "service_error": [
+      "Server is not reachable at the moment,Connect to internet."
+    ],
+    "unknown_command": [
+      "I'm not sure how to respond to that.",
+      "I don't understand that command.",
+      "Could you please rephrase your request?"
+    ]
+
+  }
+}

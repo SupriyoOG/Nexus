@@ -1,0 +1,43 @@
+{
+  "greetings": [
+    "Hello! I am Nexus. How can I assist you today?",
+    "Hi there! I am Nexus. What can I do for you?",
+    "Greetings! I am Nexus. How may I help you?",
+    "Hey! I am Nexus. What’s up?",
+    "Good day! I am Nexus. How can I be of service?",
+    "Hi! I am Nexus. Need any assistance?",
+    "Hello! I am Nexus. What do you need help with?",
+    "Hi! I am Nexus. How can I make your day better?",
+    "Hey! I am Nexus. How's it going?",
+    "Good to see you! I am Nexus. How can I assist?",
+    "Hi! I am Nexus. What's on your mind today?",
+    "Hello! I am Nexus. How can I help you today?",
+    "Greetings! I am Nexus. Need any help?",
+    "Hey there! I am Nexus. What can I do for you?",
+    "Hi! I am Nexus. What’s on the agenda today?",
+    "Hello! I am Nexus. How can I be of assistance?"
+  ],
+  "introductions": [
+    "I am Nexus, made by the students of KPS Kadma, and I am here to make your tasks easy. I have two modes: chat and command mode. You can tell me to switch between modes.",
+    "I am Nexus, created by the students of KPS Kadma to assist you with your tasks. I have two modes: chat and command mode. Feel free to switch between modes as needed.",
+    "Hello! I am Nexus, developed by the students of KPS Kadma to simplify your tasks. I operate in two modes: chat and command mode. You can instruct me to switch modes anytime.",
+    "Hi! I am Nexus, crafted by the students of KPS Kadma to help you with your tasks. I function in two modes: chat and command mode. Just tell me to switch modes whenever you like.",
+    "Greetings! I am Nexus, built by the students of KPS Kadma to make your tasks easier. I have two operational modes: chat and command. You can ask me to switch between them."
+  ],
+
+  "Starting": [
+    "Engine starting...",
+    "Powering up...",
+    "Initializing systems... ",
+    "Starting up...",
+    "Booting..."
+  ],
+
+  "started": [
+    "Initialized.",
+    "Powered up.",
+    "Done! Nexus is active.",
+    "Started!",
+    "Booted up!"
+  ]
+}
