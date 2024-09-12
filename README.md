@@ -24,4 +24,4 @@ Nexus AI is a Python-based artificial intelligence project that incorporates com
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nexus-ai.git
+   git clone https://github.com/SupriyoOG/Nexus.git
